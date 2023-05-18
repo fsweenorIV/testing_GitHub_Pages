@@ -1,1 +1,1 @@
-[Links to our documentation](../README.md)
+[Links to our README](../README.md)
