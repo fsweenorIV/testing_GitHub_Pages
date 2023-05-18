@@ -1,9 +1,9 @@
 body {
-  background-color: lightblue;
+  background-color: white;
 }
 
 h1 {
-  color: navy;
+  color: rgb(255, 0, 137);
   text-align: center;
 }
 
@@ -11,7 +11,7 @@ p {
   font-family: verdana;
   font-size: 20px;
   text-align: center;
-  color: green;
-  border: 3px solid green;
+  color: rgb(255, 0, 137);
+  border: 3px solid rgb(255, 0, 137);
 }
 
