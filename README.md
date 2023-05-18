@@ -1,3 +1,3 @@
 # testing_GitHub_Pages
 Testing the functionality of GitHub Pages
-[Contribution guidelines for this project](page1.html)
+[Links to our documentation](page1.html)
