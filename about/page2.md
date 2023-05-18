@@ -1,1 +1,1 @@
-[Links to our documentation](testing_GitHub_Pages/page1.html)
+[Links to our documentation](../page1.html)
