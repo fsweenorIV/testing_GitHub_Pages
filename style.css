@@ -3,15 +3,15 @@ body {
 }
 
 h1 {
-  color: white;
+  color: navy;
   text-align: center;
 }
 
 p {
   font-family: verdana;
   font-size: 20px;
-}
-.center {
   text-align: center;
+  color: green;
   border: 3px solid green;
 }
+
